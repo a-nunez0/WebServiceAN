@@ -1,0 +1,14 @@
+{
+    "name": "projectwebservices",
+    "version": "1.0.0",
+    "description": "Node.js web service project",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Alvaro Nunez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.22.1"
+    }
+}
