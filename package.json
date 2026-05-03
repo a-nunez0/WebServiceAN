@@ -9,6 +9,8 @@
     "author": "Alvaro Nunez",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.22.1"
+        "dotenv": "^17.4.2",
+        "express": "^4.22.1",
+        "mongodb": "^7.2.0"
     }
 }
